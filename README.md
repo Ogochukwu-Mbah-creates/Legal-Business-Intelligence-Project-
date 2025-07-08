@@ -82,4 +82,5 @@ This project shows how legal operations can be measured and optimized using data
 ## 🧪 Note
 
 All data used in this project is simulated for demonstration purposes and does not represent any real clients or law firms.
+### [Link to the project folder](https://drive.google.com/drive/folders/11JLjmJStSfsDqtXe-QNl6bCS9B00TL-m), this folder contains the pbix file, datasets used and screenshots of the dashboards.
 
